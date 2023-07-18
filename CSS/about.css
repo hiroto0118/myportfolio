@@ -212,6 +212,7 @@ hr {
           transform: translateY(20px);
   -webkit-transition: all 0.8s ease-in;
   transition: all 0.8s ease-in;
+  color: rgb(201, 201, 201);
 }
 .fadeIn.active {
   opacity: 1;
@@ -237,6 +238,7 @@ hr {
   line-height: 1.7;
   font-size: 1.4em;
   padding-top: 10px;
+  color: rgb(201, 201, 201);
 }
 .bg-white h1 {
   font-size: 1.7em;
@@ -280,8 +282,8 @@ hr {
   margin-bottom: 20px;
 }
 .bg-white .my-skils .flex-box .flex-item h2 {
-  font-size: 1.2em;
-  color: #daeaf0;
+  font-size: 1.4em;
+  color: #f4e803;
 }
 .bg-white .my-skils .flex-box .flex-item img {
   width: 80%;

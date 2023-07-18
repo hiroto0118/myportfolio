@@ -169,6 +169,8 @@ hr {
   opacity: 0;
   transform: translateY(20px);
   transition: all .8s ease-in;
+  color: rgb(201, 201, 201);
+
   &.active {
     opacity: 1;
     transform: translateY(0);
@@ -193,6 +195,7 @@ hr {
     line-height: 1.7;
     font-size: 1.4em;
     padding-top: 10px;
+    color: rgb(201, 201, 201);
   }
 
   & h1 {
@@ -231,8 +234,8 @@ hr {
         width: 43%;
         margin-bottom: 20px;
         & h2 {
-          font-size: 1.2em;
-          color: #daeaf0;
+          font-size: 1.4em;
+          color: #f4e803;
         }
         & img {
           width: 80%;
